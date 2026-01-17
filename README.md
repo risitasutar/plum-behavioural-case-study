@@ -1,121 +1,154 @@
-# Behavioural Interventions to Reduce No-shows & Late Cancellations  
-### Teleconsultation Case Study – Plum
+# Behavioural Interventions to Reduce No-Shows & Late Cancellations  
+### Product Case Study – Teleconsultations (Plum)
 
-## Overview
-This case study explores how behavioural science, service design, and data-driven experimentation
-can be used to reduce **no-shows and late cancellations** in teleconsultation services.
-
-The work was conducted in the context of **Plum**, focusing on improving appointment adherence
-while balancing user experience, operational efficiency, and business impact.
+## TL;DR
+This case study demonstrates how product thinking and behavioural design can reduce
+**no-shows and late cancellations** in teleconsultations by improving **user commitment,
+perceived value, and system efficiency**, while balancing doctor capacity and user experience.
 
 📄 **Full Case Study (PDF):**  
 [Download here](plum-behavioural-interventions.pdf)
 
 ---
 
+## Context
+Teleconsultations suffer from:
+- High no-show rates
+- Late cancellations close to appointment time
+- Doctor idle time during peak hours
+- Poor utilization of limited supply (doctors)
+
+From a product perspective, this is a **conversion + retention + supply-efficiency problem**.
+
+---
+
 ## Problem Statement
-Teleconsultations face high operational losses due to:
-- No-shows (~8%)
-- Late cancellations (~14%)
-- Low perceived service value
-- Over-optimistic user planning
-- Forgetting and low commitment
-
-These behaviors result in:
-- Doctor idle time
-- Opportunity cost
-- Reduced system efficiency during peak hours
+How might we reduce no-shows and late cancellations **without hurting user trust or experience**, while improving:
+- Appointment adherence
+- Doctor utilization
+- Peak-hour efficiency
 
 ---
 
-## Assumptions & Research Inputs
-- ~85% of same-day bookings occur within 1 hour
-- Mental health appointments show higher GP usage
-- Cancellation friction strongly affects attendance
-- User behavior varies significantly by demographic and ailment type
+## Product Goals
+- Increase appointment attendance rate
+- Reduce last-minute cancellations
+- Improve perceived value of teleconsultations
+- Optimize capacity without degrading UX
 
-**Data Sources**
-- Plum AMA data
-- Literature on OPD no-attendance
-- Competitive analysis (Even, Practo, Lybrate)
-- User interviews (telehealth users)
-
----
-
-## Behavioural Diagnosis
-Key behavioural barriers identified:
-- Low commitment
-- Negative task perception
-- Forgetting
-- Over-optimistic planning
-- Zero cancellation friction
-
-A service blueprint was created to map:
-- User journey touchpoints
-- Decision fatigue points
-- Opportunity windows for intervention
+**Primary Metrics**
+- No-show rate
+- Late cancellation rate
+- Doctor utilization
+- Peak-hour capacity efficiency
 
 ---
 
-## Interventions Designed
-A total of **13 intervention ideas** were ideated and prioritized using **RICE scoring**.
-Key proposals include:
+## User & Behavioural Insights
+Research and data analysis revealed that users:
+- Treat teleconsultations as “low-cost / low-commitment”
+- Overestimate their availability
+- Forget appointments easily
+- Face zero friction when cancelling
+- Respond better to commitment cues than penalties
 
-### 1. Cashless Checkout
-- Introduces value perception through employer-paid transactions
-- Adds a “Review & Pay” step to increase commitment
-- Expected reduction: **~4%** in no-shows and late cancellations
-
-### 2. Intelligent Overbooking
-- Uses historical attendance, time of day, doctor availability
-- Balances capacity utilization without harming user experience
-- Expected mitigation: **~7%** capacity loss
-
-### 3. Pre-appointment Engagement
-- Interactive reminders
-- Commitment-building prompts
-- Active waiting window
-- Expected reduction: **~5%**
-
-### 4. Priority Service
-- Non-monetary rewards for on-time behavior
-- Priority slots and reduced waiting time
-- Reinforces positive behavior loops
+This reframed the problem from **“user irresponsibility”** to **“product design gap.”**
 
 ---
 
-## Experiment Design
+## Solution Approach
+The solution followed a standard PM framework:
+
+1. Diagnose behavioural barriers across the user journey
+2. Identify high-leverage intervention points
+3. Ideate multiple solutions
+4. Prioritize using **RICE scoring**
+5. Design experiments with measurable outcomes
+
+A service blueprint was used to map **where and when** interventions would be most effective.
+
+---
+
+## Key Product Interventions
+
+### 1. Cashless Checkout (Value Reinforcement)
+**Problem:** Low perceived value → easy drop-offs  
+**Solution:** Introduce a “Review & Pay” step using employer-paid benefits  
+**Why it works:** Converts the consultation into a *real transaction* in the user’s mind  
+
+**Expected Impact:** ~4% reduction in no-shows and late cancellations
+
+---
+
+### 2. Intelligent Overbooking (Supply Optimization)
+**Problem:** Capacity loss due to no-shows  
+**Solution:** Data-driven overbooking based on:
+- Historical attendance
+- Time of day
+- Doctor availability
+- Appointment type
+
+**Why it works:** Improves utilization while controlling risk  
+
+**Expected Impact:** ~7% mitigation of capacity loss
+
+---
+
+### 3. Pre-Appointment Engagement (Commitment Building)
+**Problem:** Forgetting + low commitment  
+**Solution:** 
+- Interactive reminders  
+- Active waiting window  
+- Commitment prompts before appointment time  
+
+**Why it works:** Shifts user mindset from “optional” to “scheduled”  
+
+**Expected Impact:** ~5% reduction in no-shows
+
+---
+
+### 4. Priority Service (Positive Reinforcement)
+**Problem:** No incentive for good behavior  
+**Solution:** Non-monetary rewards like:
+- Priority slots
+- Reduced waiting time
+
+**Why it works:** Reinforces repeat on-time behavior without penalties  
+
+---
+
+## Experimentation Strategy
 - A/B testing with 90% statistical power
-- Sample sizes ranging from **300 to 4,300 users**
-- Test durations: **3 days to 1 month**
-- Metrics tracked:
-  - No-show rate
-  - Late cancellation rate
-  - User satisfaction
-  - Capacity utilization
+- Sample sizes: 300 to 4,300 users
+- Test durations: 3 days to 1 month
+- Clear success metrics defined before rollout
+
+This ensured **data-backed decisions**, not intuition-led shipping.
 
 ---
 
 ## Business Impact
-- Reduction in no-shows: **5–10%**
-- Reduction in late cancellations: **up to 5%**
+- 5–10% reduction in no-shows
+- Up to 5% reduction in late cancellations
 - Improved doctor utilization
-- Better peak-hour efficiency
-- Scalable behavioral framework for future features
+- Better peak-hour supply efficiency
+- Scalable intervention framework for future features
 
 ---
 
-## Skills Demonstrated
-- Behavioural economics
+## Product Skills Demonstrated
+- Problem framing & metric definition
+- Behavioural economics applied to product design
 - Service blueprinting
-- Product thinking
-- Experiment design (A/B testing)
-- Data-informed decision making
-- UX & system-level tradeoff analysis
+- Prioritization (RICE)
+- Experiment design & evaluation
+- Balancing UX, business impact, and system constraints
 
 ---
 
 ## Author
 **Risita Sutar**
 
-This case study is intended for academic review, product roles, and data/strategy discussions.
+This case study is intended for **product management, product analytics,
+and strategy discussions**, and reflects real-world product trade-offs.
+
