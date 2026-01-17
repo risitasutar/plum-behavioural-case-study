@@ -6,9 +6,6 @@ This case study demonstrates how product thinking and behavioural design can red
 **no-shows and late cancellations** in teleconsultations by improving **user commitment,
 perceived value, and system efficiency**, while balancing doctor capacity and user experience.
 
-📄 **Full Case Study (PDF):**  
-[Download here]([plum-behavioural-interventions.pdf](https://github.com/risitasutar/plum-behavioural-case-study/blob/main/plum-behavioural-interventions.pdf.pdf))
-
 ---
 
 ## Context
